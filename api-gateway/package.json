@@ -41,7 +41,7 @@
     "@types/lodash": "^4.17.7",
     "@types/morgan": "^1.9.9",
     "@types/node": "^22.5.2",
-    "ts-proto": "^2.0.3",
+    "ts-proto": "^2.2.7",
     "typescript": "^5.5.4"
   }
 }
